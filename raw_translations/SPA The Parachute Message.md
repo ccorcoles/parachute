@@ -8,7 +8,7 @@
 
 ### Those clever folks at JPL like to hide secret messages in their missions. The last time they sent a rover to Mars, the tracks on the Curiosity rover spelled out “JPL” in Morse code.
 
-#### A quienes trabajan en el JPL les gusta ocultar mensajes secretos en su Misiones. La última vez que enviaron un rover a Marte, las huellas del rover Curiosity dejaban escrito "JPL" en código Morse.
+#### A quienes trabajan en el JPL les gusta ocultar mensajes secretos en su misiones. La última vez que enviaron un rover a Marte, las huellas del rover Curiosity dejaban escrito "JPL" en código Morse.
 
 .
 
@@ -34,7 +34,7 @@
 
 ### Some parts of the parachute are orange, and some are white. We can guess that orange is some colour, and white is no colour.
 
-#### Algunas partes del paracaídas son de color naranja y otras blancas. Podemos suponer que el naranja es color y que el blanco no lo es.
+#### Algunas partes del paracaídas son de color naranja y otras blancas. Podemos suponer que el naranja es color y que el blanco es la ausencia de color.
 
 .
 
@@ -72,7 +72,7 @@
 
 ### In between the gaps is the actual code! You have to look very carefully.
 
-#### ¡Entre los espacios está el código real! Tienes que mirar con mucho cuidado.
+#### ¡Entre los espacios está el código real! Tienes que buscar con mucho cuidado.
 
 ---
 
@@ -86,19 +86,19 @@
 
 ### Here is a tidy version of the parachute.
 
-#### Aquí hay una versión ordenada del paracaídas.
+#### Aquí hay una versión limpia del paracaídas.
 
 .
 
 ### We have started to fill in the zeroes and ones – can you finish it?
 
-#### Hemos comenzado a completar los ceros y unos, ¿puedes terminarlo?
+#### Hemos comenzado a completar los ceros y unos, ¿puedes acabar tú?
 
 .
 
 ### Parachute image created by James Houston and used with permission
 
-#### Imagen de paracaídas creada por James Houston y usada con permiso
+#### Imagen del paracaídas creada por James Houston y usada con permiso
 
 ---
 
@@ -112,19 +112,19 @@
 
 ### Binary is clever because you can make any number using just 0’s and 1’s (on and offs).
 
-#### Usar Binario es inteligente porque puedes lograr cualquier número con tan solo ceros y unos (apagado y prendido).
+#### Usar Binario es inteligente porque puedes lograr cualquier número con tan solo ceros y unos (apagado y encendido).
 
 .
 
 ### The bit on the right is worth one, the bit to its left is worth two, the bit next left is 4, and so on. You need to add up the “on” bits to get a final number.
 
-#### El bit que está bien a la derecha vale uno, el anteúltimo bit vale dos, el siguiente vale 4, y así sucesivamente. Necesitas sumar todos los bits "prendidos" para obtener el número final.
+#### El bit que está a la derecha del todo vale uno, el que hay a su izquierda bit vale dos, el siguiente vale 4, y así sucesivamente. Necesitas sumar todos los bits "encendidos" para obtener el número final.
 
 .
 
 ### See if you can work out this message. (hint: you wear it)
 
-#### Tratá de ver si puedes resolver este mensaje. (pista: lo llevas puesto)
+#### Trata de ver si puedes resolver este mensaje. (pista: lo llevas puesto)
 
 .
 
@@ -144,7 +144,7 @@
 
 ### Binary is a way of counting.
 
-#### Binario es una manera de contar.
+#### El binario es una manera de contar.
 
 .
 
@@ -168,7 +168,7 @@
 
 ### To find out more about binary have a look at: https://www.mathsisfun.com/binary-number-system.html
 
-#### Para obtener más información sobre el sistema binario, consulta: https://www.mathsisfun.com/binary-number-system.html
+#### Para obtener más información sobre el sistema binario, consulta: https://www.disfrutalasmatematicas.com/numeros/binarios-numeros-sistema.html
 
 ---
 
@@ -182,13 +182,13 @@
 
 ### It is time to look back on your zeros and ones. See if you can change each segment into a number.
 
-#### Es tiempo de mirar hacia atrás en los ceros y unos que anotaste. Ve si puedes convertir cada segmento en un número.
+#### Es hora de volver a mirar tus ceros y unos. Prueba a ver si puedes convertir cada segmento en un número.
 
 .
 
 ### Carefully write your number, and the letter it could be, into each segment like we have shown here.
 
-#### Escribe con cuidado el número y la letra que podría ser en cada segmento, como se muestra aquí.
+#### Escribe con cuidado el número, y la letra que podría ser, en cada segmento, como se muestra aquí.
 
 .
 
